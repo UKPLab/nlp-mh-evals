@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nlp-mh-evals/static/css/main.cccfa856.css",
+    "main.js": "/nlp-mh-evals/static/js/main.6f655f6c.js",
+    "static/js/453.9d77d8c1.chunk.js": "/nlp-mh-evals/static/js/453.9d77d8c1.chunk.js",
+    "index.html": "/nlp-mh-evals/index.html",
+    "main.cccfa856.css.map": "/nlp-mh-evals/static/css/main.cccfa856.css.map",
+    "main.6f655f6c.js.map": "/nlp-mh-evals/static/js/main.6f655f6c.js.map",
+    "453.9d77d8c1.chunk.js.map": "/nlp-mh-evals/static/js/453.9d77d8c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cccfa856.css",
+    "static/js/main.6f655f6c.js"
+  ]
+}
