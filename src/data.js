@@ -40,17 +40,18 @@ export const paperMetadata = {
   ],
 
   links: {
-    arxiv: "https://arxiv.org", // Add your link
+    arxiv: "https://zenodo.org/records/18402515", // Add your link
     pdf: "https://google.com", // Add your PDF link
   },
 
   // The BibTeX for YOUR position paper (to be displayed at the bottom)
-  citation: `@inproceedings{arnaout2025responsible,
-  title={Responsible Evaluation of AI for Mental Health},
-  author={TBD},
-  booktitle={TBD},
-  year={2026}
-}`
+  citation: `@misc{arnaout2026responsible, 
+  title={Responsible Evaluation of AI for Mental Health}, 
+  DOI={10.5281/zenodo.18402515},  
+  author={Arnaout, Hiba and Goel, Anmol and Schwartz, H. Andrew  and Eberhardt, Steffen T. and 
+  Atzil-Slonim, Dana and Doherty, Gavin and Schwartz, Brian and Lutz, Wolfgang and Althoff, Tim and
+  De Choudhury, Munmun and Jamalabadi, Hamidreza and Sanjay Shah, Raj and 
+  Miriam Plaza-del-Arco, Flor and Hovy, Dirk and Liakata, Maria and Gurevych, Iryna} }`
 };
 
 // Paste your full list of 135 papers here
