@@ -215,7 +215,7 @@ const App = () => {
                 className="flex items-center gap-2 px-5 py-2.5 bg-gray-900 text-white rounded-lg hover:bg-gray-800 transition-colors shadow-sm"
               >
                 <ExternalLink size={18} />
-                preprint
+                ACL 2026
               </a>
               {/* <a 
                 href={paperMetadata.links.pdf} 
